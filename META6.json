@@ -7,7 +7,7 @@
   "depends": [
   ],
   "description": "blah blah blah",
-  "license": "Artistic-2.0",
+  "license": "MIT",
   "name": "App::Nnk",
   "perl": "6.d",
   "provides": {
